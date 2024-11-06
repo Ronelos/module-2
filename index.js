@@ -33,6 +33,31 @@
 
 //////////////////////////////////////////
 
+// console.log(10 ?? 'Polly');
+
+///////////////////////////////////
+
+// const firstName = 'andrii';
+
+// const lastName = 'kryvyi';
+
+// const fullName = `${firstName} ${lastName}`;
+// console.log(fullName);
+
+/////////////////////////////////
+
+// const firstName = null;
+
+// const lastName = 'kryvyi';
+
+// const fullName = `${firstName ?? 'Anonymus'} ${lastName ?? 'Anonymus'}`;
+
+// console.log(fullName);
+
+/////////////////////////////////////
+
+
+
 
 
 
